@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yogesh Pandey</h1>
+<h3 align="center">Aspiring Software Developer | Python & DSA Focused</h3>
 
-<!--
-**yogesh-pandey090/yogesh-pandey090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Currently focused on **Python & Data Structures and Algorithms**
+- 💻 Building strong problem-solving skills
+- 🌐 Learning **Frontend Development (HTML, CSS, JavaScript)**
+- 🗄 Exploring **SQL & Database Management**
+- ⚙ Learning Backend Development using **Django & Flask**
+- 📊 Working with **NumPy & Pandas** for data handling
+- 🎯 Goal: Become a Job-Ready Software Developer
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming & Core
+C | Java | Python  
+
+### 🌐 Web Development
+HTML | CSS | JavaScript  
+
+### ⚙ Backend & Database
+Django | Flask | SQL  
+
+### 📊 Libraries & Tools
+NumPy | Pandas | Git | GitHub  
+
+---
+
+## 📌 Current Focus
+
+- Solving DSA problems daily  
+- Improving Time & Space Complexity understanding  
+- Building real-world projects using Python  
+- Strengthening backend concepts  
+
+---
+
+## 📈 Coding Profiles
+
+🧑‍💻 LeetCode: https://leetcode.com/u/Yogesh_090  
+💼 LinkedIn: www.linkedin.com/in/yogesh090  
+
+---
+
+## 📫 Contact
+
+📧 Email: yp673179@gmail.com  
+📞 PhoneNo: 8521546259
+📍 India
+
+
+---
+
+⭐ "Discipline > Motivation"
+
+---
+
+💡 Turning logic into scalable solutions through Python.
