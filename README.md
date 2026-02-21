@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Pandey</h1>
-<h3 align="center">Aspiring Software Developer | Python & DSA Focused</h3>
+<h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Python & DSA Focused</h3>
 
 ---
 
