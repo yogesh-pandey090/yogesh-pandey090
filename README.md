@@ -90,9 +90,9 @@
 
 ### 🐍 Contribution Ecosystem
 
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2300d4ff&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353" alt="Snake Animation" width="100%" />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
