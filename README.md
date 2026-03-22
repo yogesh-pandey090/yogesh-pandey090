@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yogesh Pandey</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;DSA+Enthusiast;Python+Developer;Future+Software+Engineer" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Yogesh Pandey</h1>
 <h3 align="center">Aspiring AI Engineer | Machine Learning Enthusiast | Python & DSA Focused</h3>
 
 ---
