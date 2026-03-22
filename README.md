@@ -25,34 +25,29 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<!-- LANGUAGES -->
 <h3 align="center">💻 Languages</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
-<!-- FRONTEND -->
 <h3 align="center">🌐 Frontend</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<!-- BACKEND -->
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=django,flask" />
 </p>
 
-<!-- DATABASE -->
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<!-- TOOLS -->
-<h3 align="center">🛠️ Tools & Libraries</h3>
+<h3 align="center">🛠️ Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,numpy,pandas" />
 </p>
