@@ -170,11 +170,9 @@ Open to technical collaborations, system audits, and high-impact engineering ass
 
 <br />
 
-```json
 {
   "status": "Active",
   "timezone": "IST",
   "focus": ["Backend Engineering", "Data Structures", "AI Integration"]
 }
 
-```
