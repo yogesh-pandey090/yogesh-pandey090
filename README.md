@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b1f2a,100:00f2fe&height=220&section=header&text=YOGESH%20RAJ&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=twinkling" width="100%" alt="Yogesh Raj GitHub Profile Banner" />
+
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101827,100:00f2fe&height=230&section=header&text=YOGESH%20RAJ&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=JAVA%20%7C%20DSA%20%7C%20BACKEND%20%7C%20AI&descAlignY=58&descSize=18&descColor=00f2fe" width="100%" alt="Yogesh Raj — Java, DSA, Backend and AI" />
+
+</div>
+<div align="center">
+
 # Yogesh Raj
 
 ### CSE (AI & ML) Student · Building Toward Java Backend Engineering
